@@ -1,0 +1,27 @@
+.box{
+    width: 500px;
+    height: 100px;
+    margin: 10px;
+    border: 2px solid blue;
+    display: inline-block;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+
+}
+
+img{
+    display: inline;
+    margin: 10px;
+}
+
+body{
+    background-image: url(../img/kitty-cat-kitten-pet-45201.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* examples of absolute units */
+/* px,cm,mm */
+
+/* examples of relative units */
+/* em,vw,vh,% */
